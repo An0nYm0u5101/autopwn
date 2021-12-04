@@ -11,7 +11,7 @@ flask-restplus==0.12.1
 Flask-SQLAlchemy==2.3.2
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonschema==3.0.1
 MarkupSafe==1.1.1
 pyrsistent==0.14.11
@@ -23,5 +23,5 @@ requests==2.21.0
 six==1.12.0
 SQLAlchemy==1.3.2
 tzlocal==1.5.1
-urllib3==1.25
-Werkzeug==0.15.2
+urllib3==1.26.5
+Werkzeug==0.15.3
