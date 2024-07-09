@@ -25,3 +25,4 @@ SQLAlchemy==1.3.2
 tzlocal==1.5.1
 urllib3==1.25
 Werkzeug==0.15.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
