@@ -19,7 +19,7 @@ pysqlite3==0.2.1
 python-dateutil==2.8.0
 pytest==4.4.0
 pytz==2019.1
-requests==2.21.0
+requests==2.32.4
 six==1.12.0
 SQLAlchemy==1.3.2
 tzlocal==1.5.1
